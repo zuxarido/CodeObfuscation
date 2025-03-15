@@ -1,0 +1,1 @@
+3/15/2025 - screwing around with a reverse-engineering challenge thing. churns out messed-up code with hidden flags.Strings get encoded to hell, logic’s a maze. easy/medium/hard modes, hints, checker. cybersecurity vibes, breaking shit to learn.
